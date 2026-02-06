@@ -49,3 +49,16 @@ Highlighted products and categories with high sales but low profit
 🔹 Outcome
 
 The final dashboard enables users to quickly analyze sales performance, identify growth opportunities, and make informed business decisions through interactive and visually rich reports.
+
+
+
+
+----OUTPUT DASHBOARD IMAGE-----
+
+
+
+
+
+
+![image alt](https://github.com/tejdeep09/Sales-Dashboard-Analysis/blob/main/WhatsApp%20Image%202026-02-05%20at%206.20.12%20PM%20(1).jpeg?raw=true)
+
