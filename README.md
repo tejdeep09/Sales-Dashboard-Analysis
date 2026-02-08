@@ -53,7 +53,7 @@ The final dashboard enables users to quickly analyze sales performance, identify
 
 
 
-----OUTPUT DASHBOARD IMAGE-----
+---- DASHBOARD -----
 
 
 
